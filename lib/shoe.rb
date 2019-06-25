@@ -3,8 +3,8 @@ class Shoe
   attr_reader :brand
   
   def initialize
-    @brand
-    end
+    @brand = brand
+  end
     
     def cobble
     puts Your shoe is as good as new!"
