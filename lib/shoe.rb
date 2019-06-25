@@ -1,3 +1,6 @@
 class Shoe 
   attr_accessor :color, :size, :material, :condition
-  attr_
+  attr_reader :brand
+  
+  def cobble
+    
