@@ -11,6 +11,6 @@ class Shoe
   end
 end
 end
-render
+end
 end
 end
